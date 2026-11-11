@@ -1,1 +1,1 @@
-# Imarticus
+# Imarticuse Learning CIBOP course
